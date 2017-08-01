@@ -1,0 +1,51 @@
+{
+    "author": "394922814@qq.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "",
+    "pebble": {
+        "displayName": "\u547c\u5438\u6307\u5bfc",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/h_icon",
+                    "memoryFormat": "Smallest",
+                    "name": "IMAGE_H_ICON",
+                    "targetPlatforms": [
+                        "basalt"
+                    ],
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/x_icon_1",
+                    "memoryFormat": "Smallest",
+                    "name": "IMAGE_X_ICON",
+                    "targetPlatforms": [
+                        "basalt"
+                    ],
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/hxicon",
+                    "name": "IMAGE_HX_ICON",
+                    "targetPlatforms": [
+                        "basalt"
+                    ],
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt"
+        ],
+        "uuid": "50e34f19-5341-44ca-862e-1f7a7d2b571e",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.4.0"
+}
